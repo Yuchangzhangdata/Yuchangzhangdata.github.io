@@ -23,7 +23,6 @@ Working experience
 * **Raisin**, Berlin, Germany
 *Department of Data*
   * Junior data engineer, Jan. 2020--Present
-
   - Develop and optimize data pipelines and the ETL process using Python, Airflow, docker, Amazon Redshift and snowflake
   - Debug upstream problems with data exchanges with other teams
   - Extracting data from various 3rd party tools and APIs
