@@ -65,7 +65,7 @@ Relative Experience
     - Designed and implemented a control algorithm on Freescale microcontroller
     - Configured communication protocols, for example UART and SPI
 
-
+<!-- 
 Skills
 ======
 * Skill 1
@@ -73,5 +73,5 @@ Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
