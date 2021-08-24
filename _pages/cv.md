@@ -11,22 +11,61 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Technical University of Munich**, Germany
+  - MSc in Mathematics in science and engineering, Oct. 2015-- Apr. 2019
+* **Shijiazhuang University of Economics**, China
+  - BSc in Mathematics and Applied Mathematics, Sept. 2011--Jul. 2015
+* **Hochschule Wismar**, Germany
+  - Exchange Student, Oct. 2014--Aug. 2015
 
-Work experience
+Working experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Raisin**, Berlin, Germany
+*Department of Data*
+  * Junior data engineer, Jan. 2020--Present
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+  - Develop and optimize data pipelines and the ETL process using Python, Airflow, docker, Amazon Redshift and snowflake
+  - Debug upstream problems with data exchanges with other teams
+  - Extracting data from various 3rd party tools and APIs
+  - Built machine Learning pipeline in customer segmentation and data modelling using SQL
+  - Take responsibility for small pipelines and interact with the corresponding team
+
+* **Honssan GmbH**, Munich, Bavaria, Germany
+*Department of Accounting*
+  * Working student, Sep. 2018--Sep. 2019
+  - Support the Accounting Manager on month end and year end closings
+  - Collect, review and archive invoice
+  - Data analysis using modelling techniques like Logistic regression, K-nearest Neighbor (KNN) to compare the accuracy and error rate of the output
+
+* **Technische Universität München**, Munich, Bavaria, Germany
+*Chair of Management and Science*
+  * Teaching Assistant for precourse Foundations in Mathematics, Oct. 2018--Nov. 2018
+  - Tutored classes for the precourse of Bachelor Foundations in mathematics
+
+
+Relative Experience
+======
+* **Case Study of Discrete Optimization**, Technical University of Munich & Audi Ingolstadt
+  - Optimization of Tow Trains’ Routes in Production Line
+  - Developed a mathematical model that optimize the logistics of car production
+    - Used optimization models: Traveling Salesman Problem (TSP), Bin Packing and Set Partitioning
+    - Worked with Python and Gurobi solver
+
+* **Student Project in Deep Learning**, Technical University of Munich
+  - Topic: Disease Type Prediction
+    - Implemented and explored the performance of various Convolutional Neural Network (CNN) architectures on the task of aided diagnos 
+    - Used bayesian optimization to accelerate the training process
+    - Implemented data augmentation for the highly unbalanced dataset
+
+* **Voluntary Research Assistant at Environmental perception Group**, Tongji University, 
+  - Designed a method for lane detection
+
+* **Voluntary Research Assistant at Automotive Network and Communication Laboratory**, Tongji University
+  - Designed an embedded systems for a monowheel system
+    - Designed and implemented a control algorithm on Freescale microcontroller
+    - Configured communication protocols, for example UART and SPI
+
+
 Skills
 ======
 * Skill 1
@@ -36,24 +75,3 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
