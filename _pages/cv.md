@@ -42,7 +42,13 @@ Working experience
   * Teaching Assistant for precourse Foundations in Mathematics, Oct. 2018--Nov. 2018
   - Tutored classes for the precourse of Bachelor Foundations in mathematics
 
-
+* **Hochschule Wismar**, Wismar, Mecklenburg-Vorpommerns, Germany
+*Chair of Data Mining and Analytics*
+  * Reasearch Assistant for Prof. Dr. Norbert Grünwald, Oct. 2014--Jun. 2015
+  - Supported maths lecture Generalized linear regression (GLA) using MATLAB
+  - Design for INTERNATIONAL CONFERENCE on Engineering and Business Education (ICEBE) using TYPO3
+  
+   
 Relative Experience
 ======
 * **Case Study of Discrete Optimization**, Technical University of Munich & Audi Ingolstadt
@@ -56,14 +62,6 @@ Relative Experience
     - Implemented and explored the performance of various Convolutional Neural Network (CNN) architectures on the task of aided diagnos 
     - Used bayesian optimization to accelerate the training process
     - Implemented data augmentation for the highly unbalanced dataset
-
-* **Voluntary Research Assistant at Environmental perception Group**, Tongji University, 
-  - Designed a method for lane detection
-
-* **Voluntary Research Assistant at Automotive Network and Communication Laboratory**, Tongji University
-  - Designed an embedded systems for a monowheel system
-    - Designed and implemented a control algorithm on Freescale microcontroller
-    - Configured communication protocols, for example UART and SPI
 
 <!-- 
 Skills
